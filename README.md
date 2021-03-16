@@ -1,6 +1,3 @@
-# SE101-CryptoPi
-First year Software Engineering project
-
 In recent years, advances in Blockchain technology have resulted in exciting applications such as novel digital asset classes, smart contracts and more.
 
 The purpose of this idea is to make it easier for people to enjoy the benefits of digital currencies – anonymity, privacy, decentralization, while also being easily able to send and receive money. We believe that participating in the cryptoeconomy is a catalyst for freedom and economic progress and wish to make it as convenient as possible.
